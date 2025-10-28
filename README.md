@@ -9,7 +9,7 @@ Predict which video games will be successful in the global market using regressi
 
 ## Dataset
 
-Source: [Video Game Sales]([url](https://www.kaggle.com/datasets/gregorut/videogamesales))
+Source: [Video Game Sales]((https://www.kaggle.com/datasets/gregorut/videogamesales))
 
 
 -------------------------------------------------------------------------------------------------
